@@ -1,0 +1,15 @@
+ [] --> Puerto de comunicacion en el main 
+ 
+ [] --> Todas las acciones deben verse en la consola (enviar msng, cerrar conexion, abrir conexion)
+ 
+ [] --> Try catch para gestionar errores
+ 
+ [] --> Bucle para enviar mnsg x consola (chat)
+ 
+ [] --> Uso de palabra clave para cerrar el servidor no tiene xq ser la misma.
+ 
+ [] --> Cerrar todos los recursos al acabar
+ 
+ [] --> Primero que envie msg debe ser el cliente.
+ 
+ Fecha de entrega 19 de Abril 
